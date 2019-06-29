@@ -1,0 +1,14 @@
+
+<resources>
+    <string name="app_name">Message Composer</string>
+    <string name="To">To:</string>
+   <string name="apology">Apology</string>
+    <string name="thank">Thank</string>
+    <string name="busy">Busy</string>
+    <string name="birthday">Wish Happy Birthday</string>
+    <string name="f1">I am really very sorry, please accept my sincere apology.</string>
+    <string name="f2">Words will never do but, Thank you very much. I really appreciate it.</string>
+    <string name="f3">I am sorry, i am very busy right now. I will reach out to you when i am free.</string>
+    <string name="f4">Happy Birthday to you. Wishing you all the best, Enjoy!</string>
+    <string name="end">Thank you for using Message Composer</string>
+</resources>

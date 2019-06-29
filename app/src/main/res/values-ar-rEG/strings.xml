@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">كاتب الرسائل</string>
+    <string name="To">الي:</string>
+    <string name="apology">اعتذار</string>
+    <string name="thank">شكر</string>
+    <string name="busy">مشغول</string>
+    <string name="birthday">تمني عيد ميلاد سعيد</string>
+    <string name="f1">أنا فعلا اسف، ارجوك اقبل اسفي المتواضع</string>
+    <string name="f2">الكلمات مش هتقدر توصف مشاعري، شكرا لك من قلبي</string>
+    <string name="f3">أنا اسف، بس انا حاليا مشغول، هتواصل معك اول ما أفضي</string>
+    <string name="f4">كل سنة و انت طيب و عقبال مليون سنة سعادة</string>
+    <string name="end">شكرا لاستعمالكم كاتب الرسائل</string>
+
+</resources>
